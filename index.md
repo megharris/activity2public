@@ -1,37 +1,80 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
 
-You can use the [editor on GitHub](https://github.com/megharris/activity2public/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+    <title>Activity 2 Meg Harris</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+    <link rel="stylesheet" href="Activity2css.css" type="text/css" media="screen,projection" >
+</head>
+<body>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<br>
+<br>
 
-### Markdown
+<header>
+<h1>Activity 2: Meg Harris</h1>
+</header>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+<br>
+<br>
+  <div id="introduction">
+      <section>
+            <br>
+              <img class="myimage" src="familypic.jpg"/ id=familypic>
+              <p>
 
-# Header 1
-## Header 2
-### Header 3
+	I am a CPA (certified public accountant) and Accounting Instructor at 
+	UNO. I currently teach introductory and intermediate managerial accounting 
+	as well as Accounting Information Systems. Previously, I worked as a CPA in
+	a variety of areas including tax, audit, public, private, retail, financial
+	services, non-profit, energy, etc. My goal is to obtain a PhD in Information
+	Technology/MIS and a tenure track position in the School of Accounting. 
+	Additionally, I have two children and a third on the way. 
 
-- Bulleted
-- List
+            </p>
+            <br>
+            <br>
+	    <hr>
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+      </section>
+  </div>
 
-### Jekyll Themes
+            <br>
+            <br>
+  <div id="racing">
+      <section>
+            <br>
+              <img class="myimage" src="cobalt.jpg" id=cobalt/>
+	    <p>
+	For fun, our family is into drag racing. My husband races a Chevy Cobalt 
+	and we are up for a championship this year! Drag racing is sometimes confused with 
+	Nascar but in Nascar, the racers drive in circles whereas drag racing is on a straight
+	track and is much shorter. The cars use a lot of power and the sport overall requires a
+	lot of strategic preparation.
+	    </p>
+            <br>
+            <br>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/megharris/activity2public/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+      </section>
+  </div>
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+            <br>
+            <br>
+            <br>
+            <br>
+
+
+
+
+
+
+</body>
+</html>
+
