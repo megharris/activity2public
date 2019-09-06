@@ -1,0 +1,89 @@
+
+/*************************************
+GENERAL
+**************************************/
+body {
+   font-family: calibri;
+ }
+
+
+ #introduction {
+   float: center;
+   max-width: 940px;
+   margin: 0 auto;
+   padding: 0;
+
+ }
+
+ #racing {
+   float: center;
+   max-width: 940px;
+   margin: 0 auto;
+   padding: 0;
+
+ }
+
+/*************************************
+HEADING
+**************************************/
+header {
+  float: left;
+  margin: 0 0 75px 0;
+  padding: 3px 0 0 0;
+  width: 100%;
+  height: 100%;
+
+}
+
+ h1  {
+ font-family: 'Changa One', calibri;
+ margin: 8px;
+ font-size: 50px;
+ font-weight: normal;
+ line-height: 0.5;
+ text-align: center;
+
+ }
+
+
+ 
+/*************************************
+PAGE:
+**************************************/
+
+.myimage{
+    float: left;
+    width:180px;
+    height:175px;
+    margin:20px;
+    border-radius: 20px;
+}
+
+
+
+
+
+
+/*************************************
+COLORS
+**************************************/
+
+
+ /* red header*/
+header {
+   background: #ff355e;
+   border-color: #080808;
+ }
+
+ /* logo text*/
+
+h1  {
+    color: #080808;
+}
+
+
+/* site body*/
+body {
+    background-color: #18e5e0;
+    color: #020fc3;
+}
